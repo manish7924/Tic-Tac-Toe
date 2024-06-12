@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Tic Tac Toe</string>
+    <string name="heading" translatable="false">Welcome to Tic-Tac-Toe</string>
+    <string name="grid" translatable="false">grid</string>
+    <string name="winner" translatable="false">You Won</string>
+    <string name="status" translatable="false">Player X\'s Turn \nTap to Play</string>
+</resources>
