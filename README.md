@@ -4,6 +4,8 @@
 
 This Tic Tac Toe app is a classic game implemented for Android devices. It allows two players to take turns marking spaces in a 3x3 grid, with the goal of getting three of their marks in a horizontal, vertical, or diagonal row.
 
+For downloading this app visit [**releases page**](https://github.com/manish7924/Tic-Tac-Toe/releases/)
+
 ## Features
 
 - **Two-player mode**: Play against another human.
